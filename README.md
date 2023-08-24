@@ -8,4 +8,14 @@
 5. [Microsoft Excel Intermediate]()
 6. [Microsoft Excel Advanced]()
 
-##📑
+## 📑Data Analysis
+
+## 📑Microsoft Power BI
+
+## 📑Python for Data Analysis
+
+## 📑Microsoft Excel Basic
+
+## 📑Microsoft Excel Intermediate
+
+## 📑Microsoft Excel Advanced
